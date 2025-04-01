@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "git": "^c0.1.5",
+    "helmet": "^8.1.0",
+    "mongoose": "^8.13.1",
+    "mysql2": "^3.14.0"
+  }
+}
